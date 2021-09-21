@@ -1,0 +1,10 @@
+Czechitas 21.09.
+
+overflow
+
+ctrl+sipky - skáču po slovech
+ctrl+shift+šipky - výběr po slovech
+home/end - na windows skok na začátek/konec řádku
+alt+šipky nahoru/dolu - presun řádku
+
+
